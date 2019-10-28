@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * Tianqi Liu, tzl60@psu.edu, 915252087 
+ *
  */
 #include <stdio.h>
 #include <stdlib.h>
